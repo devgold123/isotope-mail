@@ -15,7 +15,7 @@ using the example traefik docker-compose.
 Just run the following commands:
 
 ```
-git clone https://github.com/manusa/isotope-mail.git
+git clone https://github.com/voleggold/isotope-mail.git
 cd isotope-mail/docker/traefik
 docker-compose pull && docker-compose up --force-recreate
 ```
